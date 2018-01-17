@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 10 15:56:46 CST 2016
+http\://repo.spring.io/snapshot/.lastUpdated=1478764590903
+http\://172.31.1.147\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.alibaba\:fastjson\:pom\:1.2.3 from/to aladdin (http\://172.31.1.147\:8081/nexus/content/groups/public)\: connect timed out
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.error=
+http\://maven.jahia.org/maven2/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1478764593881
+https\://repo.maven.apache.org/maven2/.lastUpdated=1478764606343
+@default-aladdin-http\://172.31.1.147\:8081/nexus/content/groups/public/.lastUpdated=1478764604662
+http\://maven.jahia.org/maven2/.lastUpdated=1478764594655

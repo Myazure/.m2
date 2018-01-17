@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 10 15:57:20 CST 2016
+http\://repo.spring.io/snapshot/.lastUpdated=1478764622494
+http\://172.31.1.147\:8081/nexus/content/groups/public/.error=Could not transfer artifact io.netty\:netty-parent\:pom\:4.0.25.Final from/to aladdin (http\://172.31.1.147\:8081/nexus/content/groups/public)\: connect timed out
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.error=
+http\://maven.jahia.org/maven2/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1478764626141
+https\://repo.maven.apache.org/maven2/.lastUpdated=1478764640872
+@default-aladdin-http\://172.31.1.147\:8081/nexus/content/groups/public/.lastUpdated=1478764636835
+http\://maven.jahia.org/maven2/.lastUpdated=1478764626825

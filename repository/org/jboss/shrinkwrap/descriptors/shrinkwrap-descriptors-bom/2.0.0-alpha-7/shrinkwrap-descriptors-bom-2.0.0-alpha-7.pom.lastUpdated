@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 11 19:51:39 CST 2016
+http\://repo.spring.io/ext-release-local/.error=
+http\://repo.spring.io/snapshot/.lastUpdated=1476186686500
+http\://172.31.1.147\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.shrinkwrap.descriptors\:shrinkwrap-descriptors-bom\:pom\:2.0.0-alpha-7 from/to aladdin (http\://172.31.1.147\:8081/nexus/content/groups/public)\: connect timed out
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/ext-release-local/.lastUpdated=1476186698394
+http\://repo.spring.io/milestone/.lastUpdated=1476186687386
+https\://repo.maven.apache.org/maven2/.lastUpdated=1476186699412
+@default-aladdin-http\://172.31.1.147\:8081/nexus/content/groups/public/.lastUpdated=1476186697424

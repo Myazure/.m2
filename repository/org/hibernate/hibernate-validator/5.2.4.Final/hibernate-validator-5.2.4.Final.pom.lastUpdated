@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 11 19:50:27 CST 2016
+http\://repo.spring.io/milestone/.error=
+http\://172.31.1.147\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.hibernate\:hibernate-validator\:pom\:5.2.4.Final from/to aladdin (http\://172.31.1.147\:8081/nexus/content/groups/public)\: connect timed out
+https\://repo.maven.apache.org/maven2/.lastUpdated=1476186627266
+http\://repo.spring.io/snapshot/.lastUpdated=1476186612784
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1476186613395
+@default-aladdin-http\://172.31.1.147\:8081/nexus/content/groups/public/.lastUpdated=1476186623406

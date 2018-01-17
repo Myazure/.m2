@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 10 16:19:01 CST 2016
+http\://repo.spring.io/snapshot/.lastUpdated=1478764644553
+http\://172.31.1.147\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.alibaba.rocketmq\:rocketmq-common\:jar\:3.2.6 from/to aladdin (http\://172.31.1.147\:8081/nexus/content/groups/public)\: connect timed out
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.error=
+http\://maven.jahia.org/maven2/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1478764647525
+https\://repo.maven.apache.org/maven2/.lastUpdated=1478765941685
+@default-aladdin-http\://172.31.1.147\:8081/nexus/content/groups/public/.lastUpdated=1478764690066
+http\://maven.jahia.org/maven2/.lastUpdated=1478764650041
